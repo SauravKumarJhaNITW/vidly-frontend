@@ -2,7 +2,8 @@
   "name": "vidly",
   "version": "0.1.0",
   "engines": {
-    "node": "14.15.3"
+    "node": "14.15.3",
+    "npm": "7.18.1"
   },
   "private": true,
   "dependencies": {
